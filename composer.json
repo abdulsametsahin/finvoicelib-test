@@ -1,0 +1,17 @@
+{
+  "name": "edata/finvoice-api",
+  "type": "library",
+  "description": "Finvoice API",
+  "license": "MIT",
+  "require": {
+  },
+  "authors": [
+    {
+      "name": "Abdulsamet Şahin",
+      "email": "abdulsametsah@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": { "EDATA\\": "src/" }
+  }
+}
